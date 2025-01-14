@@ -20,8 +20,11 @@ public class PatientApplication {
 		ArrayList<String> uniqueElements = new ArrayList<>(uniqueSet);
 		
 		uniqueElements.forEach(names->System.out.println(names));
-		System.out.println("welcome to the world 2040" );
-		
+		System.out.println("welcome to the world of digital entertainment10" );
+		System.out.println("all is well and happy");
+		System.out.println("karke dekho kya hota hai");
+		System.out.println("new changes integrated");
+		System.out.println("hello mister");
 //			System.out.println(uniqueElements);
 		}
 	}
