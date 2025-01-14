@@ -25,6 +25,7 @@ public class PatientApplication {
 		System.out.println("karke dekho kya hota hai");
 		System.out.println("new changes integrated");
 		System.out.println("hello mister");
+		System.out.println("new world");
 //			System.out.println(uniqueElements);
 		}
 	}
