@@ -20,7 +20,7 @@ public class PatientApplication {
 		ArrayList<String> uniqueElements = new ArrayList<>(uniqueSet);
 		
 		uniqueElements.forEach(names->System.out.println(names));
-		System.out.println("welcome to the world 2050" );
+		System.out.println("welcome to the world 2040" );
 		
 //			System.out.println(uniqueElements);
 		}
